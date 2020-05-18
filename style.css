@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT&family=Open+Sans&display=swap');
+
+/* Center all text in header*/
+header {
+  text-align: center;
+}
+
+/* format headers */
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #333
+}
+
+h2, h3, h4 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #222
+}
+
+h3 {
+  color: #111
+}
+
+/* format other text items */
+p, a, li {
+  font-family: 'Old Standard TT', serif;
+}
+
+a:visited {color: black;}
+a:hover {color: #f90;}
+a:active {color: red;}
+
+/* diversify sections */
+.blue {
+  background: rgb(90, 110, 230);
+  margin: 37px;
+  padding: 37px;
+}
+
+/* format navigation sections */
+nav {
+  background: #ccc;
+  padding: 23px;
+  font-size: 18px;
+}
+nav a {
+  padding: 7px;
+}
+
+/* format image */
+img {
+  border: 7px outset rgb(90, 110, 230);
+  margin: 3px;
+}
+
+/* align almost all text to the center */
+main {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}

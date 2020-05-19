@@ -62,3 +62,15 @@ main {
 footer {
   text-align: center;
 }
+
+/* group words with bulletpoints */
+#skills {
+  width: 400px;
+  height: 270px;
+  margin: auto;
+}
+
+/* soften map */
+iframe {
+  border-radius: 5px;
+}

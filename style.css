@@ -32,6 +32,11 @@ a:visited {color: black;}
 a:hover {color: #f90;}
 a:active {color: red;}
 
+p {
+  padding-left: 69px;
+  padding-right: 69px;
+}
+
 /* diversify sections */
 .blue {
   background: rgb(90, 110, 230);
@@ -63,10 +68,8 @@ footer {
   text-align: center;
 }
 
-/* group words with bulletpoints */
+/* center skills */
 #skills {
-  width: 400px;
-  height: 270px;
   margin: auto;
 }
 
